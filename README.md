@@ -9,3 +9,8 @@ Roadmaps to Web Development:
 These are the notes I prepared for myself while revising **HTML5**.
 
 Full notes can be found [here](https://www.notion.so/HTML5-Notes-baabdbc289b94c1f9252094dbe6e1aaf).
+
+## Day 2
+Part 1 **CSS** (Basics) Notes
+
+Link is [here](https://www.notion.so/CSS-Basics-Notes-48493ac425e2449faa7a9563592c3c41).
