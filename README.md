@@ -31,12 +31,18 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
 13. **Day Off** - I took a day off
 14. **Day 22 (4hr)** - Sass Project
 15. **Day 23 (3hr)** - Sass Project "Stranger Things" Complete
-16. **Day 24 (3hr)** 
+16. **Day 24 (3hr)** - Sass Project "Stranger Things" - Responsive now
+17. **Day 25 (3hr)**
     - 1hr - Tried to fix the linkable icons
-    - 2hr - Started JavaScript (Basics)
-17. **Day 25 (3hr)** - JavaScript Course on [Scotch.io](https://scotch.io/courses/getting-started-with-javascript-for-web-development?ref=home-start-here) 
+    - 2hr - Started JavaScript (Basics- Variables, Data Types, Operators, Events)
+18. **Day 26 (3hr)** - JavaScript Course on [Scotch.io](https://scotch.io/courses/getting-started-with-javascript-for-web-development?ref=home-start-here) 
     - Notes from this [course]() 
-18. **Day 26 (3hr)** - 
-19. **Day 27** - 
+19. **Day 27 (2.5hr)** - JavaScript - Conditional statements and Loops
+20. **Day 28 (3hr)** - JavaScript - Arrays, Functions and Objects (this keyword)
+21. **Day 29 (3hr)** 
+    - Revision of JavaScript Topics till covered
+    - Exercise on [w3schools.com](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
+    - Exercise on [freeCodeCamp](https://www.freecodecamp.org/)
+22. **Day 30 (2.5hr)** - freeCodeCamp video on JavaScript on [YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1825s)
 
 By @pramesha
