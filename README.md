@@ -43,6 +43,9 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
     - Revision of JavaScript Topics till covered - [Notes](https://www.notion.so/JavaScript-Basics-6a8d61407aef41c1872aeb2e4efb3b65) 
     - Exercise on [w3schools.com](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
     - Exercise on [freeCodeCamp](https://www.freecodecamp.org/)
-22. **Day 30 (2.5hr)** - freeCodeCamp video on JavaScript on [YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1825s)
+22. **Day 30 (2.5hr)** - freeCodeCamp video on JavaScript on [YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1825s) - Half
+23. **Day 31 (3hr)** 
+    - freeCodeCamp video on JavaScript on YouTube completed 
+    - Reading JavaScript [Official Document](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 By @pramesha
