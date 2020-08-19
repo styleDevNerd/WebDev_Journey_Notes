@@ -40,7 +40,7 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
 19. **Day 27 (2.5hr)** - JavaScript - Conditional statements and Loops
 20. **Day 28 (3hr)** - JavaScript - Arrays, Functions and Objects (this keyword)
 21. **Day 29 (3hr)** 
-    - Revision of JavaScript Topics till covered
+    - Revision of JavaScript Topics till covered - [Notes](https://www.notion.so/JavaScript-Basics-6a8d61407aef41c1872aeb2e4efb3b65) 
     - Exercise on [w3schools.com](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
     - Exercise on [freeCodeCamp](https://www.freecodecamp.org/)
 22. **Day 30 (2.5hr)** - freeCodeCamp video on JavaScript on [YouTube](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1825s)
