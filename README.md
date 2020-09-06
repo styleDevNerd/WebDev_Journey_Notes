@@ -49,7 +49,23 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
     - Reading JavaScript [Official Document](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 24. **Day 32 (1.5hr)** - codeSTACKr video on JavaScript Tutorial for Beginners on [YouTube](https://www.youtube.com/watch?v=d5ob3WAGeZE&t=508s)
 25. **Day 33 (2hr)** - Completed with the codeSTACKr video on JavaScript Tutorial for Beginners
-26. **Day 34 (2.5hr)** - Started with JavaScript30 Course by [Wesbos]() - Day 1 : Drum Kit and made by version of it
+26. **Day 34 (2.5hr)** - Started with JavaScript30 Course by [Wesbos](https://javascript30.com/) - Day 1 : Drum Kit and made by version of it.
 27. **Day 35 (2hr)** - Day 2 : Clock of JavaScript30 Course by Wesbos
+28. **Day 36 (1.5hr)** - Day 3 : CSS Variables of JavaScript30 Course by Wesbos
+29. **Day 37 (2hr)** - Fall Game JS by [KnifeCircus](https://www.youtube.com/watch?v=gX3gSJ43f7I) on YouTube - Need to Debug
+30. **Day 38 (1hr)** 
+    - Debugging of Fall Game (Need more time.. I guess)
+    - Day 4 : Flex Gallery of JavaScript30 Course by Wesbos
+31. **Day 39 (0.5hr)** - Day 5 : KOANI CODE of JavaScript30 Course by Wesbos
+32. **Day 40 (1hr)** - Day 6 : Mouse Move Effect of JavaScript30 Course by Wesbos
+33. **Day 41 (1hr)** - Day 7 : Sort without Articles of JavaScript30 Course by Wesbos
+34. **Day 42 (2hr)** - Started Reading the Book: "JavaSCript & Jquery" by Jon Duckett
+35. **Day 43 (0.5hr)** - Read few pages of the Jon Duckett book
+36. **Day 44 (1.5hr)** - Snippets from Jon Duckett Book (till Pg. 83)
+37. **Day 45 (0.5hr)** - Read one blog Project Ideas to become a Full STack Master on [Dev.to](https://dev.to/nghiemthu/8-projects-with-modern-designs-to-become-a-full-stack-master-2020-14j9)
+38. **Day Off** - I took a day off
+39. **Day 46 (1hr)** - Snippets from Jon Duckett Book (till Pg. 112)
+40. **Day 47 (1.5hr)** - Snippets from Jon Duckett Book (till Pg. 143)
+41. **Day 48 (2hr)** - Snippets from Jon Duckett Book (till Pg. 181)
 
 By @pramesha
