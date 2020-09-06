@@ -47,5 +47,9 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
 23. **Day 31 (3hr)** 
     - freeCodeCamp video on JavaScript on YouTube completed 
     - Reading JavaScript [Official Document](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+24. **Day 32 (1.5hr)** - codeSTACKr video on JavaScript Tutorial for Beginners on [YouTube](https://www.youtube.com/watch?v=d5ob3WAGeZE&t=508s)
+25. **Day 33 (2hr)** - Completed with the codeSTACKr video on JavaScript Tutorial for Beginners
+26. **Day 34 (2.5hr)** - Started with JavaScript30 Course by [Wesbos]() - Day 1 : Drum Kit and made by version of it
+27. **Day 35 (2hr)** - Day 2 : Clock of JavaScript30 Course by Wesbos
 
 By @pramesha
