@@ -65,7 +65,48 @@ These are the notes I prepared for myself while revising **HTML, CSS**.
 37. **Day 45 (0.5hr)** - Read one blog Project Ideas to become a Full STack Master on [Dev.to](https://dev.to/nghiemthu/8-projects-with-modern-designs-to-become-a-full-stack-master-2020-14j9)
 38. **Day Off** - I took a day off
 39. **Day 46 (1hr)** - Snippets from Jon Duckett Book (till Pg. 112)
-40. **Day 47 (1.5hr)** - Snippets from Jon Duckett Book (till Pg. 143)
-41. **Day 48 (2hr)** - Snippets from Jon Duckett Book (till Pg. 181)
+40. **Day 47 (1.5hr)** - Completed Functions, Methods and Objects examples given in book by JonDuckett
+41. **Day 48 (2hr)** - Completed Decision and Loops examples given in book by JonDuckett
+42. **Day 49 (1hr)** - Halfway through DOM examples given in book by JonDuckett
+43. **Day 50 (1hr)** - Few more DOM examples given in book by JonDuckett
+44. **Day Off** - I took a day off
+45. **Day 51 (1hr)** - DOM Examples Completed 
+46. **Day 52 (1hr)** - Started with Event examples given in book by JonDuckett
+47. **Day 53 (1hr)** - Continuing with Event examples given in book by JonDuckett
+48. **Day 54 (1hr)** - Completed with Event examples given in book by JonDuckett
+49. **Day 55 and Day 56 (1hr)** - Read the official documentation on JavaScript events
+50. **Day 57 (2hr)** - Modified GitHub Readme File using HTML and [SCSS](https://codepen.io/styleDevNerd/full/yLOEbGg) 
+51. **Day 58 (0.5hr)** - Read about CSS Animation
+52. **Day 59 (0.5hr)** - Read about CSS Animation
+53. **Day 60 (2hr)** - Pure CSS - Speaker with little animation on [CodePem](https://codepen.io/styleDevNerd/full/eYZPKZX)
+54. **Day 61 (1hr)** - Pure CSS Letter P google style on [CodePen](https://codepen.io/styleDevNerd/full/MWyzgaq)
+55. **Day 62 (2.5hr)** - Pure CSS (SCSS)-Digital Boarding Pass on [CodePen](https://codepen.io/styleDevNerd/full/xxVQjjy)
+56. **Day 63 (2hr)** - Pure CSS - My Desk Component Started
+57. **Day 64 and Day 65 (3hr)** - Pure CSS - My Desk Component in progress
+58. **Day 66 (1hr)** - Little Animation Component on [CodePen](https://codepen.io/styleDevNerd/full/poyYdgV)
+59. **Day 67 (2.5hr)** - Pure CSS - My Desk Component in progress
+60. **Day 68 (3.5hr)** - First component is all [set!!](https://codepen.io/styleDevNerd/full/BaKvzLV)
+61. **Day Off** - I took two days off
+62. **Day 69 (1hr)** - Started planning for my portfolio. And the home page is almost set!
+63. **Day 70 (1hr)** - Portfolio - Home page set and blueprint for other pages
+64. **Day 71 (3hr)** - Worked on my portfolio
+65. **Day 72 (4hr)** - Worked on my portfolio and another [component](https://codepen.io/styleDevNerd/full/eYZqdOr)
+66. **Day 73 (6hr)** - Worked on my portfolio 
+67. **Day 74 (2hr)** - Worked on my portfolio and Experimenting
+68. **Day 75 (1hr)** - Worked on my portfolio
+69. **Day 76 (1hr)** - Worked on my portfolio
+70. **Day Off** - I took five days off
+71. **Day 77 (1hr)** - Worked on Portfolio and made some components
+72. **Day 78 and Day 79 (1hr)** - Tried different animations for my portfolio
+73. **Day 80 and Day 81 (1hr)** - Planning for Personal Portfolio
+74. **Day 82 (2hr)** - Another Component using HTML CSS in [CodePen](https://codepen.io/styleDevNerd/full/ZEOOWmB)
+75. **Day 83 - Day 86 (5hr)** - Learnt Basics of Figma and tried designing my portfolio in Figma
+76. **Day Off** - I had a gap of 57 days due to some work
+77. **Day 87 - Day 97 (1hr)** - Redesigned About Page and Contact Page
+    - CodePen Experiments [1](https://codepen.io/styleDevNerd/full/bGwrexy)
+    - CodePen Experiments [2](https://codepen.io/styleDevNerd/full/BaLmMKy)
+    - CodePen Experiments [3](https://codepen.io/styleDevNerd/full/MWjQxEV)
+78. **Day Off** - 3 Day gap due to work
+79. **Day 98, Day 99 and Day 100 (1hr)** - Finally completed 100DaysOfCode and My Portfolio
 
 By @pramesha
