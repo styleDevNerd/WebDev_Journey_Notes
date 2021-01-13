@@ -1,5 +1,5 @@
 # WebDev_Journey and Notes 💻🌐✏
-I am giving second chance committing to the #100daysofcode Challenge.
+I am giving second chance committing to the #100daysofcode Challenge (19th July 2020 - 3rd Jan 2021)
 
 Roadmaps to Web Development:
 1. [Roadmap by Kamran Ahmed](https://roadmap.sh/)
